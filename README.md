@@ -9,7 +9,7 @@ Experience the allure of Chai-CSS-Smoke-Effect in action. Visit our website to s
 
 ![chai](https://github.com/Coder-Aman-Sahu/Chai-CSS-Smoke-Effect/assets/113002116/7132c296-6bf0-4307-b342-e2c59d50d09a)
 
-#LiveDemo
+#Site: https://coder-aman-sahu.github.io/Chai-CSS-Smoke-Effect/
 
 
 
